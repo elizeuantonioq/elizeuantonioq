@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about building full-stack applicati
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizeuantonioq&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elizeuantonioq&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
