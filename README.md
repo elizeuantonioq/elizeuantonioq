@@ -29,12 +29,11 @@ Welcome to my GitHub profile! I'm passionate about building full-stack applicati
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizeuantonioq&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-eight-themr.vercel.app/api/top-langs/?username=elizeuantonioq&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/elizeu-antonio-de-queiroz-132596379/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL)
