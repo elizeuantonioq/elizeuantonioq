@@ -1,4 +1,6 @@
-<h1 align="center">Elizeu Antonio</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1400&color=7F7CFF&center=true&vCenter=true&width=700&lines=%3E+Elizeu+Antonio_" alt="Elizeu Antonio" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F7CFF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software+na+FIAP;Software+Engineering+Student+at+FIAP;Desenvolvedor+Full-Stack+%7C+Full-Stack+Developer;Python+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS" alt="Texto animado" />
