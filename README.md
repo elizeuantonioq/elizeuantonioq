@@ -34,8 +34,8 @@
 <h2 align="center">Estatísticas | Statistics</h2>
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api?username=elizeuantonioq&show_icons=true&hide_border=true&title_color=7F7CFF&icon_color=7F7CFF&text_color=A9B1D6&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elizeuantonioq&layout=compact&hide_border=true&title_color=7F7CFF&text_color=A9B1D6&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="155" src="https://github-stats-extended.vercel.app/api?username=elizeuantonioq&show_icons=true&hide_border=true&title_color=7F7CFF&icon_color=7F7CFF&text_color=A9B1D6&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="155" src="https://github-stats-extended.vercel.app/api/top-langs/?username=elizeuantonioq&layout=compact&hide_border=true&title_color=7F7CFF&text_color=A9B1D6&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 <h2 align="center">Contato | Contact</h2>
