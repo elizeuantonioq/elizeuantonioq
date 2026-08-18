@@ -3,9 +3,13 @@
 </p>
 
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F7CFF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software+na+FIAP;Software+Engineering+Student+at+FIAP;Desenvolvedor+Full-Stack+%7C+Full-Stack+Developer;Python+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS" alt="Texto animado" />
 </p>
+
+
 
 
 <p align="center">
@@ -14,7 +18,11 @@
 </p>
 
 
+
+
 <h2 align="center">Tecnologias | Technologies</h2>
+
+
 
 
 <p align="center">
@@ -30,16 +38,28 @@
 </p>
 
 
-<h2 align="center">Projetos em destaque | Featured Projects</h2>
 
+
+<h2 align="center">Projetos acadêmicos em destaque | Featured Academic Projects</h2>
+
+<p align="center">
+  Projetos desenvolvidos durante a graduação em Engenharia de Software na <a href="https://github.com/FIAP-Engenharia-de-Software-Elizeu">FIAP</a>.
+</p>
 
 - [**exemplo1react_2-**](https://github.com/FIAP-Engenharia-de-Software-Elizeu/exemplo1react_2-) — Projeto em React / React project.
 - [**projeto-API**](https://github.com/FIAP-Engenharia-de-Software-Elizeu/projeto-API) — Projeto de API com JavaScript / JavaScript API project.
 - [**simulador_tumor**](https://github.com/FIAP-Engenharia-de-Software-Elizeu/simulador_tumor) — Projeto em Python / Python project.
-
-
-<h2 align="center">Estatísticas | Statistics</h2>
-
+- [**CP3--Loja-de-Games**](https://github.com/FIAP-Engenharia-de-Software-Elizeu/CP3--Loja-de-Games) — Projeto web em HTML / HTML web project.
+- [**Projeto-Tarefa**](https://github.com/FIAP-Engenharia-de-Software-Elizeu/Projeto-Tarefa) — Aplicação em JavaScript / JavaScript application.
 
 <p align="center">
-  <img height="155" src="https://github-stats-extended.vercel.app/api?username=elizeuantonioq&show_icons=true&hide_border=true&title_color=7F7CFF&icon_color=7F7CFF&text_color=A9B1D6&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <a href="https://github.com/FIAP-Engenharia-de-Software-Elizeu">Ver todos os projetos acadêmicos →</a>
+</p>
+
+<h2 align="center">Projetos pessoais | Personal Projects</h2>
+
+<p align="center">
+  Projetos pessoais em desenvolvimento serão publicados aqui em breve.
+</p>
+
+<h2 align="center">Estatísticas | Statistics</h2>
