@@ -61,3 +61,8 @@
 </p>
 
 <h2 align="center">Estatísticas | Statistics</h2>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elizeuantonioq&theme=github_dark" alt="Estatísticas do GitHub de Elizeu Antonio" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elizeuantonioq&theme=github_dark" alt="Linguagens mais usadas por Elizeu Antonio" />
+</p>
