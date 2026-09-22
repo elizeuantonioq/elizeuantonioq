@@ -57,8 +57,7 @@
 <h2 align="center">Projetos pessoais | Personal Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/elizeuantonioq/Barganha.io"><strong>Barganha.io</strong></a> — projeto pessoal full stack de comparação de preços, feito com React, Vite e Django REST Framework.<br/>
-  O protótipo permite buscar e comparar ofertas com dados demonstrativos. Preços reais e busca com IA fazem parte da evolução planejada.
+  <a href="https://github.com/elizeuantonioq/Barganha.io"><strong>Barganha.io</strong></a> — protótipo de comparação de preços com React e Django. Dados demonstrativos; preços reais e IA são próximos passos.
 </p>
 
 <h2 align="center">Estatísticas | Statistics</h2>
