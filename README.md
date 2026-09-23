@@ -45,12 +45,20 @@
   <a href="https://github.com/elizeuantonioq/Barganha.io"><strong>Barganha.io</strong></a> — protótipo de comparação de preços com React e Django. Dados demonstrativos; preços reais e IA são próximos passos.
 </p>
 
-<h2 align="center">Atividade e linguagens | Activity and Languages</h2>
+<h2 align="center">Estatísticas | Statistics</h2>
 
 <p align="center">
-  As contribuições atualizadas aparecem no gráfico oficial do GitHub logo abaixo.
+  <img height="195" src="https://streak-stats.demolab.com/?user=elizeuantonioq&theme=github-dark-blue&timezone=America%2FSao_Paulo&hide_total_contributions=true" alt="Contribuições e sequências de atividade de Elizeu Antonio" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elizeuantonioq&theme=github_dark" alt="Linguagens por repositório de Elizeu Antonio" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elizeuantonioq&theme=github_dark" alt="Linguagens por commits de Elizeu Antonio" />
+  <a href="https://github.com/elizeuantonioq#js-contribution-activity-description">Ver o gráfico oficial de contribuições</a>
+</p>
+
+<h2 align="center">Contato | Contact</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/elizeu-antonio-de-queiroz-132596379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:elizeuantonioq@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
