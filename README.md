@@ -45,6 +45,12 @@
   <a href="https://github.com/elizeuantonioq/Barganha.io"><strong>Barganha.io</strong></a> — protótipo de comparação de preços com React e Django. Dados demonstrativos; preços reais e IA são próximos passos.
 </p>
 
+<h2 align="center">Projetos em colaboração | Collaborative Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Barrzyx/inventario-escolar"><strong>Inventário Escolar</strong></a> — sistema web para inventariar equipamentos escolares, acompanhar avarias e exportar planilhas. Projeto de <a href="https://github.com/Barrzyx">Barrzyx</a> com contribuição minha na interface.
+</p>
+
 <h2 align="center">Estatísticas | Statistics</h2>
 
 <p align="center">
