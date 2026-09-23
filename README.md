@@ -2,28 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1400&color=7F7CFF&center=true&vCenter=true&width=700&lines=%3E+Elizeu+Antonio_" alt="Elizeu Antonio" />
 </p>
 
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F7CFF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software+na+FIAP;Software+Engineering+Student+at+FIAP;Desenvolvedor+Full-Stack+%7C+Full-Stack+Developer;Python+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS" alt="Texto animado" />
 </p>
-
-
-
 
 <p align="center">
   Estudante de Engenharia de Software na FIAP, desenvolvendo projetos web e soluções com foco em aprendizado contínuo.<br/>
   Software Engineering Student at FIAP, building web projects and solutions with a focus on continuous learning.
 </p>
 
-
-
-
 <h2 align="center">Tecnologias | Technologies</h2>
-
-
-
 
 <p align="center">
   <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
@@ -31,12 +19,9 @@
   <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
   <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
   <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
 </p>
-
-
-
 
 <h2 align="center">Projetos acadêmicos em destaque | Featured Academic Projects</h2>
 
@@ -60,9 +45,12 @@
   <a href="https://github.com/elizeuantonioq/Barganha.io"><strong>Barganha.io</strong></a> — protótipo de comparação de preços com React e Django. Dados demonstrativos; preços reais e IA são próximos passos.
 </p>
 
-<h2 align="center">Estatísticas | Statistics</h2>
+<h2 align="center">Atividade e linguagens | Activity and Languages</h2>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elizeuantonioq&theme=github_dark" alt="Estatísticas do GitHub de Elizeu Antonio" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elizeuantonioq&theme=github_dark" alt="Linguagens mais usadas por Elizeu Antonio" />
+  As contribuições atualizadas aparecem no gráfico oficial do GitHub logo abaixo.
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elizeuantonioq&theme=github_dark" alt="Linguagens por commits de Elizeu Antonio" />
 </p>
