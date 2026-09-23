@@ -49,7 +49,7 @@
 
 <p align="center">
   <img height="195" src="https://streak-stats.demolab.com/?user=elizeuantonioq&theme=github-dark-blue&timezone=America%2FSao_Paulo&hide_total_contributions=true" alt="Contribuições e sequências de atividade de Elizeu Antonio" />
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elizeuantonioq&theme=github_dark" alt="Linguagens por repositório de Elizeu Antonio" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elizeuantonioq&theme=github_dark" alt="Linguagens por commits de Elizeu Antonio" />
 </p>
 
 <p align="center">
