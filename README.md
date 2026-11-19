@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F7CFF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software+na+FIAP;Software+Engineering+Student+at+FIAP;Desenvolvedor+Full-Stack+%7C+Full-Stack+Developer;Python+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F7CFF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software+na+FIAP;Desenvolvedor+Back-end+%C2%B7+IA+%7C+Back-end+%26+AI+Developer;Cofundador+do+Study+Cam+AI+%7C+Co-founder+of+Study+Cam+AI;Python+%E2%80%A2+Django+REST+%E2%80%A2+SQL+%E2%80%A2+Google+Gemini" alt="Texto animado" />
 </p>
 
 <p align="center">
-  Estudante de Engenharia de Software na FIAP, desenvolvendo projetos web e soluções com foco em aprendizado contínuo.<br/>
-  Software Engineering Student at FIAP, building web projects and solutions with a focus on continuous learning.
+  Estudante de Engenharia de Software na FIAP, focado em back-end com Python, Django REST e SQL e em integração de IA (Google Gemini) em produtos reais. Cofundador do <a href="https://github.com/elizeuantonioq/study-cam-ai"><strong>Study Cam AI</strong></a>, app de estudos com IA publicado na Google Play.<br/>
+  Software Engineering student at FIAP, focused on back-end with Python, Django REST and SQL, and on integrating AI (Google Gemini) into real products. Co-founder of Study Cam AI, an AI study app available on Google Play.
 </p>
 
 <h2 align="center">Tecnologias | Technologies</h2>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Django%20REST-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
 </p>
 
 <p align="center">
