@@ -23,6 +23,26 @@
   <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
 </p>
 
+<h2 align="center">Principais projetos | Main Projects</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📸 StudyCam AI</h3>
+      <p>Assistente de estudos com IA que transforma fotos de cadernos, livros e apostilas em resumos, explicações e simulados.<br/><sub>AI study assistant that turns photos of notes into summaries, explanations and practice tests.</sub></p>
+      <a href="https://play.google.com/store/apps/details?id=com.studycam"><img src="https://img.shields.io/badge/Google_Play-Disponível-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+      <a href="https://github.com/elizeuantonioq/study-cam-ai"><img src="https://img.shields.io/badge/Repositório-Vitrine-7F7CFF?style=flat-square&logo=github&logoColor=white" alt="Repositório" /></a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🏷️ Barganha.io</h3>
+      <p>Protótipo de comparação de preços com React e Django. Dados demonstrativos; preços reais e IA são próximos passos.<br/><sub>Price comparison prototype built with React and Django.</sub></p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <a href="https://github.com/elizeuantonioq/Barganha.io"><img src="https://img.shields.io/badge/Repositório-Código-7F7CFF?style=flat-square&logo=github&logoColor=white" alt="Repositório" /></a>
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">Projetos acadêmicos em destaque | Featured Academic Projects</h2>
 
 <p align="center">
@@ -37,12 +57,6 @@
 
 <p align="center">
   <a href="https://github.com/FIAP-Engenharia-de-Software-Elizeu">Ver todos os projetos acadêmicos →</a>
-</p>
-
-<h2 align="center">Projetos pessoais | Personal Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/elizeuantonioq/Barganha.io"><strong>Barganha.io</strong></a> — protótipo de comparação de preços com React e Django. Dados demonstrativos; preços reais e IA são próximos passos.
 </p>
 
 <h2 align="center">Projetos em colaboração | Collaborative Projects</h2>
