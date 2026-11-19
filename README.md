@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F7CFF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software+na+FIAP;Desenvolvedor+Back-end+%C2%B7+IA+%7C+Back-end+%26+AI+Developer;Cofundador+do+Study+Cam+AI+%7C+Co-founder+of+Study+Cam+AI;Python+%E2%80%A2+Django+REST+%E2%80%A2+SQL+%E2%80%A2+Google+Gemini" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F7CFF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software+na+FIAP;Desenvolvedor+Back-end+%C2%B7+IA+%7C+Back-end+%26+AI+Developer;Python+%E2%80%A2+Django+REST+%E2%80%A2+SQL+%E2%80%A2+Google+Gemini" alt="Texto animado" />
 </p>
 
 <p align="center">
-  Estudante de Engenharia de Software na FIAP, focado em back-end com Python, Django REST e SQL e em integração de IA (Google Gemini) em produtos reais. Cofundador do <a href="https://github.com/elizeuantonioq/study-cam-ai"><strong>Study Cam AI</strong></a>, app de estudos com IA publicado na Google Play.<br/>
-  Software Engineering student at FIAP, focused on back-end with Python, Django REST and SQL, and on integrating AI (Google Gemini) into real products. Co-founder of Study Cam AI, an AI study app available on Google Play.
+  Estudante de Engenharia de Software na FIAP, focado em back-end com Python, Django REST e SQL e em integração de IA.<br/>
+  Software Engineering student at FIAP, focused on back-end with Python, Django REST, SQL and AI integration.
 </p>
 
 <h2 align="center">Tecnologias | Technologies</h2>
@@ -32,13 +32,6 @@
   <strong>Banco de dados | Databases</strong><br/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=" alt="SQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-<p align="center">
-  <strong>Ferramentas e bibliotecas | Tools & Libraries</strong><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy" />
 </p>
 
 <p align="center">
@@ -68,23 +61,17 @@
   </tr>
 </table>
 
-<h2 align="center">Projetos acadêmicos em destaque | Featured Academic Projects</h2>
+<h2 align="center">Projetos acadêmicos | Academic Projects</h2>
 
 <p align="center">
-  Projetos desenvolvidos durante a graduação em Engenharia de Software na <a href="https://github.com/FIAP-Engenharia-de-Software-Elizeu">FIAP</a>.
-</p>
-
-- [**exemplo1react_2-**](https://github.com/FIAP-Engenharia-de-Software-Elizeu/exemplo1react_2-) — Projeto em React / React project.
-- [**projeto-API**](https://github.com/FIAP-Engenharia-de-Software-Elizeu/projeto-API) — Projeto de API com JavaScript / JavaScript API project.
-- [**simulador_tumor**](https://github.com/FIAP-Engenharia-de-Software-Elizeu/simulador_tumor) — Projeto em Python / Python project.
-- [**CP3--Loja-de-Games**](https://github.com/FIAP-Engenharia-de-Software-Elizeu/CP3--Loja-de-Games) — Projeto web em HTML / HTML web project.
-- [**Projeto-Tarefa**](https://github.com/FIAP-Engenharia-de-Software-Elizeu/Projeto-Tarefa) — Aplicação em JavaScript / JavaScript application.
-
-<p align="center">
-  <a href="https://github.com/FIAP-Engenharia-de-Software-Elizeu">Ver todos os projetos acadêmicos →</a>
+  Projetos da graduação em Engenharia de Software na FIAP: <a href="https://github.com/FIAP-Engenharia-de-Software-Elizeu"><strong>FIAP-Engenharia-de-Software-Elizeu</strong></a>
 </p>
 
 <h2 align="center">Projetos em colaboração | Collaborative Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/DevDooms"><strong>DevDooms</strong></a> — organização onde desenvolvo em equipe, com o projeto <a href="https://github.com/DevDooms/quati-beach">Quati Beach</a> (TypeScript · <a href="https://quati-beach.vercel.app">site</a>).
+</p>
 
 <p align="center">
   <a href="https://github.com/Barrzyx/inventario-escolar"><strong>Inventário Escolar</strong></a> — sistema web para inventariar equipamentos escolares, acompanhar avarias e exportar planilhas. Projeto de <a href="https://github.com/Barrzyx">Barrzyx</a> com contribuição minha na interface.
