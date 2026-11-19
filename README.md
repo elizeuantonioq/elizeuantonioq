@@ -6,10 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F7CFF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software+na+FIAP;Desenvolvedor+Back-end+%C2%B7+IA+%7C+Back-end+%26+AI+Developer" alt="Texto animado" />
 </p>
 
-<p align="center">
-  Estudante de Engenharia de Software na FIAP, focado em back-end e em integração de IA.<br/>
-  Software Engineering student at FIAP, focused on back-end and AI integration.
-</p>
 
 <h2 align="center">Tecnologias | Technologies</h2>
 
