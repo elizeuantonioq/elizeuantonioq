@@ -70,7 +70,12 @@
 <h2 align="center">Projetos em colaboração | Collaborative Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/DevDooms"><strong>DevDooms</strong></a> — organização onde desenvolvo em equipe, com o projeto <a href="https://github.com/DevDooms/quati-beach">Quati Beach</a> (TypeScript · <a href="https://quati-beach.vercel.app">site</a>).
+  <a href="https://github.com/DevDooms/quati-beach"><strong>Quati Beach Sport</strong></a> — site e painel de gestão para uma arena de beach sports: reserva de quadras, aulas, eventos, caixa e relatórios. Feito em equipe na organização <a href="https://github.com/DevDooms">DevDooms</a>.<br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <a href="https://quati-beach.vercel.app"><img src="https://img.shields.io/badge/Site-Ver_online-7F7CFF?style=flat-square&logo=vercel&logoColor=white" alt="Ver site" /></a>
 </p>
 
 <p align="center">
